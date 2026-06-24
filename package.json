@@ -1,5 +1,5 @@
 {
-  "name": "ourin-baileys",
+  "name": "patrick_baileys",
   "type": "module",
   "version": "0.7.14",
   "description": "Modded Baileys v7 with interactive message, album, and newsletter support",
@@ -18,7 +18,7 @@
     "whatsapp",
     "whatsapp-api",
     "whatsapp-bot",
-    "ourin-md",
+    "patrick-ai",
     "multi-device",
     "bot",
     "automation",
